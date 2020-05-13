@@ -26,9 +26,9 @@ There are two CSV files (small1.csv and small2.csv) provided on the Vocareum in 
 
 You will calculate the combinations of **frequent businesses** (as singletons, pairs, triples, etc.) that are qualified as frequent given a support threshold. You need to create a basket for each user containing the business ids reviewed by this user. If a business was reviewed more than once by a reviewer, we consider this product was rated only once. More specifically, the business ids within each basket are unique. The generated baskets are similar to:
 
-> **user1: [business11, business12, business13, ...] **
+> **user1: [business11, business12, business13, ...]**
 >
-> **user2: [business21, business22, business23, ...] **
+> **user2: [business21, business22, business23, ...]**
 >
 > **user3: [business31, business32, business33, ...]**
 
@@ -36,9 +36,9 @@ You will calculate the combinations of **frequent businesses** (as singletons, p
 
 You will calculate the combinations of **frequent users** (as singletons, pairs, triples, etc.) that are qualified as frequent given a support threshold. You need to create a basket for each business containing the user ids that commented on this business. Similar to case 1, the user ids within each basket are unique. The generated baskets are similar to:
 
-> **business1: [user11, user12, user13, ...] **
+> **business1: [user11, user12, user13, ...]**
 >
-> **business2: [user21, user22, user23, ...] **
+> **business2: [user21, user22, user23, ...]**
 >
 > **business3: [user31, user32, user33, ...]**
 
