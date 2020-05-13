@@ -6,7 +6,7 @@ In Assignment 5, you will implement the **K-Means and Bradley-Fayyad-Reina (BFR)
 
 You  will  write  the  K-Means  and  Bradley-Fayyad-Reina  (BFR)  algorithms  from  scratch.  You  should implement K-Means as the main-memory clustering algorithm that you will use in BFR. You will iteratively load  the  data  points  from  a  file  and  process  these  data  points  with  the  BFR  algorithm. See  below pseudocode for your reference.
 
-![Snip20200513_2](/Users/zhilong/git/INF553-Foundations-and-Applications-of-Data-Mining/A5/pics/Snip20200513_2.png)
+![Snip20200513_2](https://github.com/lzl12051/INF553-Foundations-and-Applications-of-Data-Mining/raw/master/A5/pics/Snip20200513_2.png)
 
 In BFR, there are three sets of points that you need to keep track of: **Discard set (DS), Compression set (CS), Retained set (RS)**. For each cluster in the DS and CS, the cluster is summarized by:
 
