@@ -21,7 +21,7 @@ int(binascii.hexlify(s.encode('utf8')),16)
 
 In task2, you will implement the Flajolet-Martin algorithm (including the step of combining estimations from groups of hash functions) to estimate the number of unique cities within a window in the data stream. The details of the Flajolet-Martin Algorithm can be found at the streaming lecture slide. You need to find proper hash functions and the proper number of hash functions in the Flajolet-Martin algorithm.
 
-![Snip20200513_3](/Users/zhilong/git/INF553-Foundations-and-Applications-of-Data-Mining/A6/pics/Snip20200513_3.png)
+![Snip20200513_3](https://github.com/lzl12051/INF553-Foundations-and-Applications-of-Data-Mining/raw/master/A6/pics/Snip20200513_3.png)
 
 **Execution Details**
 
