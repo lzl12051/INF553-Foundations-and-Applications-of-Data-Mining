@@ -10,7 +10,7 @@ In Assignment 3, I have completed three tasks. The goal is to be familiar with *
 
 ## Assignment4
 
-In assignment 6,I have explored the spark GraphFrames library as well as implemented my own Girvan-Newman algorithm using the Spark Framework to **detect communities in graphs**. I have tried to deal with dataset for finding users who have a similar business taste. The goal of this assignment is to understand how to use the **Girvan-Newman algorithm** to detect communities in an efficient way within a **distributed environment**.
+In assignment 4,I have explored the spark GraphFrames library as well as implemented my own Girvan-Newman algorithm using the Spark Framework to **detect communities in graphs**. I have tried to deal with dataset for finding users who have a similar business taste. The goal of this assignment is to understand how to use the **Girvan-Newman algorithm** to detect communities in an efficient way within a **distributed environment**.
 
 ## Assignment5
 
